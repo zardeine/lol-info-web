@@ -1,0 +1,5 @@
+requests==2.31.0
+python-dotenv==1.0.0
+Flask==3.0.2
+Flask-Bootstrap4==4.0.2
+gunicorn==21.2.0 
